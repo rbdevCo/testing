@@ -1,0 +1,15 @@
+/home/rafaelrb/personalProjects/dotNet/bin/Debug/net6.0/dotNet
+/home/rafaelrb/personalProjects/dotNet/bin/Debug/net6.0/dotNet.deps.json
+/home/rafaelrb/personalProjects/dotNet/bin/Debug/net6.0/dotNet.runtimeconfig.json
+/home/rafaelrb/personalProjects/dotNet/bin/Debug/net6.0/dotNet.dll
+/home/rafaelrb/personalProjects/dotNet/bin/Debug/net6.0/ref/dotNet.dll
+/home/rafaelrb/personalProjects/dotNet/bin/Debug/net6.0/dotNet.pdb
+/home/rafaelrb/personalProjects/dotNet/obj/Debug/net6.0/dotNet.csproj.AssemblyReference.cache
+/home/rafaelrb/personalProjects/dotNet/obj/Debug/net6.0/dotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafaelrb/personalProjects/dotNet/obj/Debug/net6.0/dotNet.AssemblyInfoInputs.cache
+/home/rafaelrb/personalProjects/dotNet/obj/Debug/net6.0/dotNet.AssemblyInfo.cs
+/home/rafaelrb/personalProjects/dotNet/obj/Debug/net6.0/dotNet.csproj.CoreCompileInputs.cache
+/home/rafaelrb/personalProjects/dotNet/obj/Debug/net6.0/dotNet.dll
+/home/rafaelrb/personalProjects/dotNet/obj/Debug/net6.0/ref/dotNet.dll
+/home/rafaelrb/personalProjects/dotNet/obj/Debug/net6.0/dotNet.pdb
+/home/rafaelrb/personalProjects/dotNet/obj/Debug/net6.0/dotNet.genruntimeconfig.cache
